@@ -1880,8 +1880,8 @@ input::-moz-focus-inner {
   border-bottom: 1px solid #ffffff;
 }
 .home-social i {
-  display: none;
-}
+/*  display: none;
+*/}
 .home-social .home-social-title {
   font-family: "metropolis-semibold", sans-serif;
   padding-right: 4rem;
@@ -2284,8 +2284,8 @@ html.no-csstransitions .home-content__main {
  * ------------------------------------------------------------------- */
 @media only screen and (max-width: 1200px) {
   .s-about {
-    padding-top: 15rem;
-    padding-bottom: 15rem;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
   }
 
   .process__vline-left {
@@ -3190,8 +3190,8 @@ html.no-csstransitions .home-content__main {
   left: 50%;
 }
 .cl-go-top::after {
-  content: "back to top";
-  display: inline-block;
+/*  content: "back to top";
+*/  display: inline-block;
   width: 120px;
   font-size: 1.2rem;
   line-height: 30px;
