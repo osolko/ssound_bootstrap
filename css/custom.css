@@ -1,3 +1,12 @@
+.home-content h1 + p::before {
+   
+    background-color: #347180;   /* #a2d4df */
+  }
+
+.header-logo img {
+  height: 120px;
+}
+
 .s-about::before {
     display: block;
     content: "";
@@ -45,4 +54,5 @@
 .myfooter {
   text-align: center;
 }
+
 
