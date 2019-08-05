@@ -2978,8 +2978,10 @@ html.no-csstransitions .home-content__main {
  *
  * ------------------------------------------------------------------- */
 .s-contact {
-  padding-top: 21rem;
-  padding-bottom: 10.2rem;
+ /* padding-top: 21rem;
+  padding-bottom: 10.2rem;*/
+  padding-top: 15rem;
+  padding-bottom: 2rem;
   background-color: #111111;
   color: rgba(255, 255, 255, 0.3);
   position: relative;
