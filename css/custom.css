@@ -7,7 +7,7 @@
   height: 120px;
 }
 
-.s-about::before {
+/*.s-about::before {
     display: block;
     content: "";
     position: absolute;
@@ -17,7 +17,7 @@
     height: 100%;
     opacity: 0.5;
     background-color: #000000;
-}
+}*/
 
 #zenzyburi { 
   background: url(../images/zz.jpg);
@@ -35,13 +35,13 @@
   background-size: cover;    
 }
 
-#sudoku { 
+/*#sudoku { 
   background: url(../images/sk.jpg);
   background-attachment: fixed;
   background-repeat: repeat;
   background-position: top center;
   background-size: cover;    
-}
+}*/
 
 #workshop { 
   background: url(../images/mw.jpg);
