@@ -1916,11 +1916,11 @@ html.cl-preload .home-content__main {
   opacity: 0;
 }
 
-html.cl-loaded .home-content__main {
+/*html.cl-loaded .home-content__main {
   animation-duration: 2s;
   -webkit-animation-name: fadeIn;
   animation-name: fadeIn;
-}
+}*/
 
 html.no-csstransitions .home-content__main {
   opacity: 1;
