@@ -1255,7 +1255,7 @@ input::-moz-focus-inner {
  * ------------------------------------------------------------------- */
 @media only screen and (max-width: 1400px) {
   .display-1 {
-    font-size: 5.6rem;
+    font-size: 3.2rem;
   }
 }
 @media only screen and (max-width: 1200px) {
@@ -1265,13 +1265,13 @@ input::-moz-focus-inner {
 }
 @media only screen and (max-width: 950px) {
   .display-1 {
-    font-size: 4.6rem;
+    font-size: 2.2rem;
   }
 }
 @media only screen and (max-width: 800px) {
   .display-1 {
-    font-size: 4.2rem;
-    margin-bottom: 4.2rem;
+    font-size: 2.2rem;
+    margin-bottom: 2.2rem;
   }
 
   .subhead {
